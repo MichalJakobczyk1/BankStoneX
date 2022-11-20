@@ -6,18 +6,6 @@ namespace Bank
 {
     class Program
     {
-        //static Client AddClient()
-        //{
-        //    Console.WriteLine("Choose your account number, must be 11 digits long");
-        //    var accNumber = Console.ReadLine();
-        //    Console.WriteLine("Choose your account password, must be 6-12 characters without symbols");
-        //    var password = Console.ReadLine();
-        //    Client client = new Client(accNumber, password);
-
-        //    Console.WriteLine($"Account added succesfully! Your starting balance is {client.Balance}");
-
-        //    return client;
-        //}
 
         static void Deposit(Client client, List<string> history)
         {
@@ -25,7 +13,7 @@ namespace Bank
             decimal value = Convert.ToDecimal(Console.ReadLine());
             client.Deposit(value);
             Console.WriteLine($"Your balance is now {client.Balance}");
-            history.Add($"{value} deposited, balance: {client.Balance}");
+            history.Add($"{value} deposited, balance: {client.Balance} on {DateTime.Now}");
         }
 
         static void Withdrawal(Client client, List<string> history)
@@ -34,7 +22,7 @@ namespace Bank
             decimal value = Convert.ToDecimal(Console.ReadLine());
             client.Withdrawal(value);
             Console.WriteLine($"{value} withdrawed succesfully, your balance is now {client.Balance}");
-            history.Add($"{value} withdrawed, balance: {client.Balance}");
+            history.Add($"{value} withdrawed, balance: {client.Balance} on {DateTime.Now}");
         }
         static void Main(string[] args)
         {
@@ -48,7 +36,8 @@ namespace Bank
             Client client = new Client(accNumber, password);
 
             Console.WriteLine($"Account added succesfully! Your starting balance is {client.Balance}");
-        menu:
+
+            menu:
             Console.WriteLine();
             Console.WriteLine("Now, what you want to do:" +
                 "\n 1. Deposit money" +

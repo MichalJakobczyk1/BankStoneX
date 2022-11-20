@@ -1,0 +1,15 @@
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\bin\Debug\net6.0\BankStoneX.exe
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\bin\Debug\net6.0\BankStoneX.deps.json
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\bin\Debug\net6.0\BankStoneX.runtimeconfig.json
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\bin\Debug\net6.0\BankStoneX.dll
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\bin\Debug\net6.0\BankStoneX.pdb
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.csproj.AssemblyReference.cache
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.AssemblyInfoInputs.cache
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.AssemblyInfo.cs
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.csproj.CoreCompileInputs.cache
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.dll
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\refint\BankStoneX.dll
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.pdb
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\BankStoneX.genruntimeconfig.cache
+C:\Users\Reiwaii\source\repos\BankStoneX\BankStoneX\obj\Debug\net6.0\ref\BankStoneX.dll
